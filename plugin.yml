@@ -1,0 +1,21 @@
+name: Koth
+main: lenlenlL6\koth\Koth
+author: lenlenlL6 #idea: LordSoul :v
+api: 3.0.0
+version: 0.0.1
+
+commands:
+ koth:
+  description: Tham Gia Trận Chiến King Of The Hill
+ setmap:
+  description: Cài Đặt Map KOTH
+  permission: koth.setmap
+  default: op
+ setwinposition:
+  description: Cài Đặt Vị Trí Chiến Thắng KOTH
+  permission: koth.setwinposition
+  default: op
+ setspawnposition:
+  description: Cài Đặt Vị Trí Hồi Sinh KOTH
+  permission: koth.setspawnposition
+  default: op
